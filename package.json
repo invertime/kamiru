@@ -1,0 +1,28 @@
+{
+  "name": "kamiru",
+  "version": "1.0.0",
+  "description": "discord bot.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vexcited/kamiru.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": " <vexcited />",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vexcited/kamiru/issues"
+  },
+  "homepage": "https://github.com/Vexcited/kamiru#readme"
+}
