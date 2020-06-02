@@ -8,7 +8,6 @@ class config_key {
   DISCORD_MSG_CONVERTING = "est en cours de conversion ! Merci de bien vouloir patienter, merci..."; // Output: @Username, ${video_title} `DISCORD_MSG_CONVERTING`
   DISCORD_MSG_CONVERT_FILESIZE_OVER_8MB = "la taille de votre fichier MP3 est supérieure à 8MO, désolé !"; // Output: @Username, `DISCORD_MSG_CONVERT_FILESIZE_OVER_8MB`
   DISCORD_MSG_CONVERT_FINISHED = "voici votre fichier !"; // Output: @Username, `DISCORD_MSG_CONVERT_FINISHED` (with file attachement)
-
 }
 
 module.exports = config_key
